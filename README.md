@@ -8,8 +8,8 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: eu também faço Engenharia Eletrônica
 
-[![Top Langs](https://readme-stats-two-fawn.vercel.app/api/top-langs/?username=gabrielzleonardo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielzleonardo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzleonardo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ícone Nextjs" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
