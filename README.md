@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Leonardo 👋
 
-##
+## Sobre mim
 
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Estou estudando para desenvolver aplicações fullStack utilizando o ORM Prisma
@@ -20,6 +20,10 @@
   <img align="center" alt="Ícone CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Ícone Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
+
+## [Meus principais projetos estão aqui](https://glossy-domain-3f6.notion.site/Projetos-b959b71e7c174db8b4ca1a2918ee2b0a)
+
+- [Link para meu portfólio](https://glossy-domain-3f6.notion.site/Projetos-b959b71e7c174db8b4ca1a2918ee2b0a)
 
 
 ## 📞 Contato e redes sociais
