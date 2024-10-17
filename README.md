@@ -6,7 +6,7 @@
 - 🌱 Estou estudando para desenvolver aplicações fullStack utilizando o ORM Prisma
 - 💬 você pode me perguntar sobre Javascript. Typescript, Nextjs e CSS/Tailwind que eu ficarei feliz em poder te ajudar!
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: eu também faço Engenharia Eletrônica
+- ⚡ Fun fact: eu tenho um cachorro chamado rockli(é assim mesmo), ou, para os chegados, wilson
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielzleonardo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzleonardo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
